@@ -1,0 +1,81 @@
+body{
+    background-image: url("../images/ball.jpg");
+    background-size: 1300px;
+    background-repeat: no-repeat;
+}
+
+.header{
+    height: 150px;
+    width: 250px;
+}
+.linker{
+    position:absolute;
+    top: 10px;;
+    right: 50px;
+    font-family: serif;
+    font-size: 30px;
+    margin-top: 5px;
+    
+    
+}
+.Home{
+    color: grey;
+    font-weight: 900;
+    text-decoration: none;
+}
+.about{
+    color: grey;
+    font-weight: 900;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.log{
+    color: goldenrod;
+    font-weight: 900;
+    text-decoration: none;
+    margin-left:50px; ;
+}
+.sign{
+    color: goldenrod;
+    font-weight: 900;
+    text-decoration: none;
+    margin-left:50px ;
+}
+.page{
+    position:absolute;
+    bottom:0;
+    left:50px;
+    color: grey;
+}
+.policy{
+    position:absolute;
+    bottom: 30px;;
+    right:50px;
+    color: white;
+}
+.Desc{
+    font-size: x-large;
+    text-align: center;
+    font-style: italic;
+    color: beige;
+}
+.Hed{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    text-align: center;
+    color: goldenrod;
+    top: 350px;
+}
+.privacy{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.terms{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 10px;
+
+}
